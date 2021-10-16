@@ -1,0 +1,101 @@
+Download ADB Setup File- https://github.com/thuy-hari/REALME-DEBLOAT
+Download Platform Tools- https://github.com/thuy-hari/REALME-DEBLOAT
+
+1)Enable USB Debugging
+2)adb devices
+3)adb shell
+
+
+⏩ UNINSTALL CMD ⏪
+
+pm uninstall --user 0 [type package name]
+
+⏩ REINSTALL CMD ⏪
+
+cmd package install-existing [type package name]
+
+⏩ DISABLE CMD ⏪
+
+pm disable-user --user 0 [type package name]
+
+⏩ ENABLE CMD ⏪
+
+pm enable [type package name]
+
+
+
+⚙️📲 Default Apps - Package Name:
+
+
+
+▫️ App market --------> com.heytap.market
+
+▫️ Browser --------> com.heytap.browser
+
+▫️ Music --------> com.oppo.music
+
+▫️ Video --------> com.coloros.video
+
+▫️ Calculator --------> com.coloros.calculator
+
+▫️ File Manager --------> com.coloros.filemanager
+
+▫️ Heytap Account --------> com.heytap.usercenter
+
+▫️ Heytap Cloud --------> com.heytap.cloud
+
+▫️ Game space --------> com.coloros.gamespaceui
+
+▫️ Theme store --------> com.heytap.themestore
+
+▫️ Search box --------> com.oppo.quicksearchbox
+
+▫️ AR Core --------> com.google.ar.core
+
+▫️ Clone phone --------> com.coloros.backuprestore
+
+▫️ Smart screen --------> com.coloros.assistantscreen
+
+▫️ Oroaming --------> com.redteamobile.roaming
+
+▫️ Compass --------> com.coloros.compass2
+
+▫️ Weather Service --------> com.coloros.weather.service
+
+▫️ Weather --------> com.coloros.weather2
+
+
+
+
+
+⚙️📲 Google Apps - Package Name:
+
+
+
+▫️ Chrome --------> com.android.chrome
+
+▫️ Keep notes --------> com.google.android.keep
+
+▫️ Gmail --------> com.google.android.gm
+
+▫️ Google duo --------> com.google.android.apps.tachyon
+
+▫️ Google calendar --------> com.google.android.calendar
+
+▫️ Google play movies --------> com.google.android.videos
+
+▫️ Google photos --------> com.google.android.apps.photos
+
+▫️ Map --------> com.google.android.apps.maps
+
+▫️ Wellbeing --------> com.google.android.apps.wellbeing
+
+▫️ YouTube --------> 
+
+com.google.android.youtube
+
+▫️ YouTube Music --------> 
+
+com.google.android.apps.youtube.music
+
+
